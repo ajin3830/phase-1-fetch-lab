@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
   fetchBooks();
 });
 
+// if you want more practice, find the following answers  
 // The 5th book in the series
 // The 1031st character in the series
 // The total number of pages of all the books
